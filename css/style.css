@@ -1,0 +1,28 @@
+.jimu-widget-customwidget h3 {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 300;
+    font-size: 22px;
+    font-family: 'Avenir Light', Verdana, Geneva, sans-serif;
+    padding-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #2d3c49;
+}
+
+.jimu-widget-customwidget button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 14px;
+    text-align: center;
+    font-family: 'Avenir Light', Verdana, Geneva, sans-serif;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+.jimu-widget-customwidget button:hover {
+    background-color: #555555; /* Green */
+    color: white;
+}
